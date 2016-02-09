@@ -1,0 +1,26 @@
+{
+  "name": "vue-store",
+  "version": "1.0.0",
+  "description": "Vue wrapper for our local storage utility",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/croudtech/vue-store.git"
+  },
+  "keywords": [
+    "Vue",
+    "store",
+    "storage",
+    "wrapper",
+    "croud"
+  ],
+  "author": "Brock Reece",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/croudtech/vue-store#readme",
+  "dependencies": {
+    "localstorage": "git+https://crouddeploy:jk458dhfk@bitbucket.org/croudtech/localstorage.git"
+  }
+}
