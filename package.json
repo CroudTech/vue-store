@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@bitbucket.org/croudtech/vue-store.git"
+    "url": "git+https://github.com/CroudSupport/vue-store.git"
   },
   "keywords": [
     "Vue",
@@ -19,8 +19,8 @@
   ],
   "author": "Brock Reece",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/croudtech/vue-store#readme",
+  "homepage": "https://github.com/CroudSupport/vue-store#readme",
   "dependencies": {
-    "localstorage": "git+https://croudSupport@bitbucket.org/croudtech/localstorage.git"
+    "localstorage": "git+https://github.com/CroudSupport/localstorage.git"
   }
 }
