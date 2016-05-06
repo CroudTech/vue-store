@@ -21,6 +21,6 @@
   "license": "ISC",
   "homepage": "https://bitbucket.org/croudtech/vue-store#readme",
   "dependencies": {
-    "localstorage": "git+https://crouddeploy:jk458dhfk@bitbucket.org/croudtech/localstorage.git"
+    "localstorage": "git+https://croudSupport@bitbucket.org/croudtech/localstorage.git"
   }
 }
